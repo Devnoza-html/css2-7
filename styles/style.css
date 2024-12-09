@@ -1,0 +1,107 @@
+*  {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: inter;
+    font-weight: 400;
+    margin: 64px;
+}
+
+#mainDiv {
+    background-color: #FFB8D7;
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#contentDiv {
+    background-color: white;
+    max-width: 1412px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 96px;
+}
+
+#blog {
+    color: #002AFE;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 44px;
+}
+
+#latest {
+    color: #535862;
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 56px;
+}
+
+#groupOne, #groupTwo, #groupThree {
+    display: inline-block;
+    margin-bottom: 56px;
+}
+
+#couple, #compiuter {
+    width: 600px;
+    height: 422px;
+    margin-left: 66px;
+    margin-right: 96px;
+    border-radius: 16px;
+}
+
+#content, #contentTwo, #contentThree {
+    display: inline-block;
+    max-width: 584px;
+    width: 100%;
+    vertical-align: top;
+    margin-top: 100px;
+}
+
+#design, #product, #customer {
+    display: inline-block;
+    max-width: 584px;
+    width: 100%;
+    color: #6941C6;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#headerOne, #headerTwo, #headerThree {
+    display: inline-block;
+    margin-bottom: 8px;
+}
+
+#text, #textTwo, #textThree {
+    display: inline-block;
+    margin-bottom: 24px;
+    color: #535862;
+}
+
+#nameAndBd, #nameAndBirthday, #nameAndThing {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+#Bd, #birthDay, #thing {
+    color: #535862;
+}
+
+#glass {
+    width: 600px;
+    height: 422px;
+    margin-left: 66px;
+    margin-right: 96px;
+    border-radius: 16px;
+    margin-bottom: 96px;
+}
